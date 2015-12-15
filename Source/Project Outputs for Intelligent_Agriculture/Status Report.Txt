@@ -1,0 +1,11 @@
+Output: Simple BOM
+Type  : SimpleBOM
+From  : Variant [[No Variations]] of Project [Intelligent_Agriculture.PrjPcb]
+   Generated File[Intelligent_Agriculture.BOM]
+   Generated File[Intelligent_Agriculture.CSV]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 19:44:16 On 2015/12/14
