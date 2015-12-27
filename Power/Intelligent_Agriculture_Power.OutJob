@@ -199,6 +199,16 @@ OutputEnabled3_OutputMedium3=0
 OutputEnabled3_OutputMedium4=0
 OutputDefault3=0
 PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
-Configuration3_Name1=General
-Configuration3_Item1=TemplateFilename=BOM Supplier Links.XLT
+Configuration3_Name1=Filter
+Configuration3_Item1=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
+Configuration3_Name2=General
+Configuration3_Item2=TemplateFilename=BOM Supplier Links.XLT
+Configuration3_Name3=GroupOrder
+Configuration3_Item3=Value=True|Comment=True|Footprint=True
+Configuration3_Name4=OutputConfigurationParameter1
+Configuration3_Item4= É?
+Configuration3_Name5=SortOrder
+Configuration3_Item5=Designator=Up|Comment=Up|Footprint=Up
+Configuration3_Name6=VisibleOrder
+Configuration3_Item6=Description=100|Comment=100|Designator=100|Footprint=100|Value=100|Quantity=100
 

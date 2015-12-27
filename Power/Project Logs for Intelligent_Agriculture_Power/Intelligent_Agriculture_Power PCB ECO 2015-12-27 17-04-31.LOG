@@ -1,0 +1,15 @@
+Removed Member From Class: ClassName=Intelligent_Agriculture_Power Member=DG0
+Added Component: Designator=DG5(DG301-2P)
+Added Component: Designator=DG6(DG301-2P)
+Added Pin To Net: NetName=NetDG5_1 Pin=DG5-1
+Added Pin To Net: NetName=NetDG5_1 Pin=F0-1
+Added Net: Name=NetDG5_1
+Added Pin To Net: NetName=NetDG5_2 Pin=DG5-2
+Added Pin To Net: NetName=NetDG5_2 Pin=R0-1
+Added Net: Name=NetDG5_2
+Added Pin To Net: NetName=NetDG6_1 Pin=DG6-1
+Added Pin To Net: NetName=NetDG6_1 Pin=DG6-2
+Added Net: Name=NetDG6_1
+Added Member To Class: ClassName=Intelligent_Agriculture_Power Member=Component DG5 Header 2
+Added Member To Class: ClassName=Intelligent_Agriculture_Power Member=Component DG6 Header 2
+Added Room: Name=Intelligent_Agriculture_Power

@@ -1,0 +1,29 @@
+Added Component: Designator=F0(FUSE-20*5*2A)
+Added Component: Designator=U1(RL-GJ-5-L)
+Added Component: Designator=U2(RL-GJ-5-L)
+Added Component: Designator=U3(RL-GJ-5-L)
+Added Component: Designator=U4(RL-GJ-5-L)
+Added Pin To Net: NetName=NetDG0_2 Pin=F0-1
+Added Pin To Net: NetName=NetF0_2 Pin=F0-2
+Added Pin To Net: NetName=VCC12V Pin=U1-1
+Added Pin To Net: NetName=NetDG1_1 Pin=U1-2
+Added Pin To Net: NetName=VCC12V Pin=U1-3
+Added Pin To Net: NetName=NetD1_1 Pin=U1-4
+Added Pin To Net: NetName=VCC12V Pin=U2-1
+Added Pin To Net: NetName=NetDG2_1 Pin=U2-2
+Added Pin To Net: NetName=VCC12V Pin=U2-3
+Added Pin To Net: NetName=NetD2_1 Pin=U2-4
+Added Pin To Net: NetName=L220V Pin=U3-1
+Added Pin To Net: NetName=NetDG3_2 Pin=U3-2
+Added Pin To Net: NetName=VCC12V Pin=U3-3
+Added Pin To Net: NetName=NetD3_1 Pin=U3-4
+Added Pin To Net: NetName=L220V Pin=U4-1
+Added Pin To Net: NetName=NetDG4_2 Pin=U4-2
+Added Pin To Net: NetName=VCC12V Pin=U4-3
+Added Pin To Net: NetName=NetD4_1 Pin=U4-4
+Added Member To Class: ClassName=Intelligent_Agriculture_Power Member=Component F0 Fuse
+Added Member To Class: ClassName=Intelligent_Agriculture_Power Member=Component U1 RL-GJ-5FA-L
+Added Member To Class: ClassName=Intelligent_Agriculture_Power Member=Component U2 RL-GJ-5FA-L
+Added Member To Class: ClassName=Intelligent_Agriculture_Power Member=Component U3 RL-GJ-5-L
+Added Member To Class: ClassName=Intelligent_Agriculture_Power Member=Component U4 RL-GJ-5-L
+Added Room: Name=Intelligent_Agriculture_Power
